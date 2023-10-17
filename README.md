@@ -13,8 +13,9 @@ Accessing the access controls used by a business. Investigating an incident. Mak
 
  <h4>
 Incident spreadsheet: </h4>
-<img src="https://imgur.com/zE69nZX.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/LP8vFUt.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/5KsI4EV.png" height="65%" width="70%" alt="Security Audit"/>
  <h4>
 Access control: </h4>
-<img src="https://imgur.com/xA9mx2Q.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/TH1Xl6N.png" height="65%" width="70%" alt="Security Audit"/>
  <h4>
